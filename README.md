@@ -68,3 +68,8 @@ Elements of a Project Charter
 	10. Assumption log:
 		- The assumption log is a record of any high level assumptions and constraints about the project, typically identified in the business case before the project starts. 
 		- The assumption log also captures any specific activity and task assumptions that are identified throughout the lifecycle of the project.
+
+References:
+
+All content provided from Skillsoft:
+Project Initiation and Planning (PMBOK® Guide Sixth Edition)
